@@ -1,3 +1,5 @@
+see full doc here: https://www.cryptomaton.org/2021/03/21/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it/
+
 DESCRIPTION
 
 This bot is designed to buy bitcoin every time Elon musk tweets about bitcoin with the following parameters:
